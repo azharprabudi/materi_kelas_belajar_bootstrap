@@ -1,0 +1,75 @@
+.custom-navbar{
+	background-color : rgba(22, 160, 133,1.0) !important;
+	border-radius:0px !important;
+	border:0px !important;
+}
+.navbar-default .navbar-brand{
+	color:white !important;
+}
+
+.lingkaran{
+	width: 50%;
+	height: 50%;
+	border-radius: 150px;
+	background-color: red;
+	content: "•";
+}
+
+.no-border-radius{
+	border-radius: 0px !important;
+}
+
+.boxLeadersIndustry{
+	background-color: white;
+	box-shadow: 0px 5px 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.imageLeader{
+	padding: 0% !important;
+}
+
+.full-image {
+	width: 100%;
+}
+
+.wrapBoxLeaderIndustry{
+	padding:5%;
+}
+
+.needBorderBottom{
+	border-bottom: 1px solid rgba(0,0,0,0.2)
+}
+
+.descriptionText{
+    color: rgba(0,0,0,0.4);
+    font-size: 14px;
+    margin-bottom: 40px;
+}
+
+.jobLeaderIndustry{
+	background-color: #EBF1F5;
+	text-transform: uppercase;
+	color:#BCC6CE;
+	padding:10px !important;
+}
+
+.bookmark{
+	background-color: #ececec;
+	border-radius: 2px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.bookmark-title{
+	padding: 2px;
+}
+.bookmark-desc{
+	padding: 1px;
+	height: 124px;
+}
+
+.no-padding{
+	padding: 0px !important;
+}
